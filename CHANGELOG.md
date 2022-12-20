@@ -5,6 +5,15 @@
 [1]: https://pypi.org/project/google-cloud-bigquery/#history
 
 
+## [3.4.2](https://github.com/googleapis/python-bigquery/compare/v3.4.1...v3.4.2) (2022-12-20)
+
+
+### Documentation
+
+* Create sample to write schema file from table ([#1439](https://github.com/googleapis/python-bigquery/issues/1439)) ([093cc68](https://github.com/googleapis/python-bigquery/commit/093cc6852ada29898c4a4d047fd216544ef15bba))
+* Created samples for load table and create table from schema file ([#1436](https://github.com/googleapis/python-bigquery/issues/1436)) ([8ad2e5b](https://github.com/googleapis/python-bigquery/commit/8ad2e5bc1c04bf16fffe4c8773e722b68117c916))
+* Revise sample for nested schema ([#1446](https://github.com/googleapis/python-bigquery/issues/1446)) ([a097631](https://github.com/googleapis/python-bigquery/commit/a0976318fc5ad1620a68250c3e059e2a51d4946d))
+
 ## [3.4.1](https://github.com/googleapis/python-bigquery/compare/v3.4.0...v3.4.1) (2022-12-09)
 
 
